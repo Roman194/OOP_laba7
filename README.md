@@ -12,4 +12,4 @@
 Минимум 5 страниц</br>
 </br>
 Редирект страниц  через сервлеты</br>
-![image](https://github.com/Roman194/OOP_laba7/assets/66479764/a9c22a90-b06d-4ac1-82ce-9da3f9c47aa4)
+![Снимок экрана 2024-04-29 202735](https://github.com/Roman194/OOP_laba7/assets/66479764/06dfc8d7-1613-4c7f-8c6d-07f34498a5f4)
